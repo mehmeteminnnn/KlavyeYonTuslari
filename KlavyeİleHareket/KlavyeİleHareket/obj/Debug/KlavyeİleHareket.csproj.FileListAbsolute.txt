@@ -1,0 +1,11 @@
+C:\Users\mhmtm\Desktop\KlavyeİleHareket\KlavyeİleHareket\bin\Debug\KlavyeİleHareket.exe.config
+C:\Users\mhmtm\Desktop\KlavyeİleHareket\KlavyeİleHareket\bin\Debug\KlavyeİleHareket.exe
+C:\Users\mhmtm\Desktop\KlavyeİleHareket\KlavyeİleHareket\bin\Debug\KlavyeİleHareket.pdb
+C:\Users\mhmtm\Desktop\KlavyeİleHareket\KlavyeİleHareket\obj\Debug\KlavyeİleHareket.csproj.AssemblyReference.cache
+C:\Users\mhmtm\Desktop\KlavyeİleHareket\KlavyeİleHareket\obj\Debug\KlavyeİleHareket.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhmtm\Desktop\KlavyeİleHareket\KlavyeİleHareket\obj\Debug\KlavyeİleHareket.Form1.resources
+C:\Users\mhmtm\Desktop\KlavyeİleHareket\KlavyeİleHareket\obj\Debug\KlavyeİleHareket.Properties.Resources.resources
+C:\Users\mhmtm\Desktop\KlavyeİleHareket\KlavyeİleHareket\obj\Debug\KlavyeİleHareket.csproj.GenerateResource.cache
+C:\Users\mhmtm\Desktop\KlavyeİleHareket\KlavyeİleHareket\obj\Debug\KlavyeİleHareket.csproj.CoreCompileInputs.cache
+C:\Users\mhmtm\Desktop\KlavyeİleHareket\KlavyeİleHareket\obj\Debug\KlavyeİleHareket.exe
+C:\Users\mhmtm\Desktop\KlavyeİleHareket\KlavyeİleHareket\obj\Debug\KlavyeİleHareket.pdb
